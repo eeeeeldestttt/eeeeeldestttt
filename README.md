@@ -15,10 +15,11 @@
 - 🎨 Passionate about **Frontend Engineering**  
 - 💻 Love working with **React, TypeScript, TailwindCSS**  
 - 🌱 Currently exploring **Next.js & modern frontend stacks**  
-- 🎯 Goal: Build web apps that are **fast, accessible, and beautiful**
+- 🎯 Goal: Build web apps that are **fast, accessible, and beautiful**  
 - 🎮 Hobby Playing games that is **competitive and casual!**
 
 ---
+
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,git,github,vscode" />
@@ -43,8 +44,9 @@
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/yourtwitter" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/yourinstagram" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://facebook.com/andrew.santoso.125?locale=id_ID" target="blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://instagram.com/andrewnicetry_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://discord.gg/nMWz4Ma" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 ---
