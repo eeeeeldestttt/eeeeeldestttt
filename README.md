@@ -21,8 +21,8 @@
 
 ## 🎵 Spotify Now Playing
 <p align="center">
-  <a href="https://open.spotify.com/user/31jtecyphumvn7afbwaznoivscw4?si=dae880ecafeb4754">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hxxx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/31jtecyphumvn7afbwaznoivscw4">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jtecyphumvn7afbwaznoivscw4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
