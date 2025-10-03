@@ -12,10 +12,11 @@
 ---
 
 ## 💡 About Me
-- 🎨 Passionate about **UI/UX & Frontend Engineering**  
+- 🎨 Passionate about **Frontend Engineering**  
 - 💻 Love working with **React, TypeScript, TailwindCSS**  
 - 🌱 Currently exploring **Next.js & modern frontend stacks**  
-- 🎯 Goal: Build web apps that are **fast, accessible, and beautiful**  
+- 🎯 Goal: Build web apps that are **fast, accessible, and beautiful**
+- 🎮 Hobby Playing games that is **competitive and casual!**
 
 ---
 ## 🚀 Tech Stack
