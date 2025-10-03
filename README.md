@@ -21,7 +21,7 @@
 
 ## 🎵 Spotify Now Playing
 <p align="center">
-  <a href="https://open.spotify.com/user/31hxxx">
+  <a href="https://open.spotify.com/user/31jtecyphumvn7afbwaznoivscw4?si=dae880ecafeb4754">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hxxx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
   </a>
 </p>
@@ -37,22 +37,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eeeeeldestttt&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeeeeldestttt&theme=radical" height="165"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eeeeeldestttt&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/yourtwitter" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://instagram.com/yourinstagram" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
