@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">🚀 Frontend Developer | Crafting Interactive Web Experiences</h3>
+<h3 align="center">🚀Junior
+  Frontend Developer | Crafting Interactive Web Experiences</h3>
 
 <!-- Typing Effect -->
 <p align="center">
